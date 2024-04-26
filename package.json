@@ -1,0 +1,23 @@
+{
+  "name": "converter-currency-rg",
+  "version": "1.0.0",
+  "description": "a npm package for currency conversion",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmitas111/npm-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Asmita Srivastava",
+  "license": " Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/asmitas111/npm-package/issues"
+  },
+  "homepage": "https://github.com/asmitas111/npm-package#readme"
+}

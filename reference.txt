@@ -1,0 +1,9 @@
+steps i am following in this project-
+----------------------------------------
+  - check node and npm installed- node -v and npm -v
+  - then check for creating git repo with git init then for a new wizard- npm init
+  ________version1.0.0= {Major, minor, patch}_______________
+  - then create a new git repo and link it to this project using git init.
+  - install the package for freecurrency api with commands from documentatons
+  ______________we can use ES6 terminologies by adding type as module in package.json file_______________
+  
